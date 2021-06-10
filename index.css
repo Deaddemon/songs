@@ -1,0 +1,58 @@
+/* first we will only position , change the size putting margin and padding the elements */
+body{
+    text-align: center;
+}
+
+
+.heading{
+
+    margin-top: 8%;
+    margin-bottom: 8%;
+    font-size:560%;
+    font-family: 'Amatic SC', cursive;
+    font-weight: bolder;
+}
+
+
+.btn{
+    width: 120px;
+    text-align: center;
+    font-size: 50px;
+    padding: 20px;
+    border-radius: 15px;
+    margin:0 6% 8% 5%;
+    font-family: 'Amatic SC', cursive;
+    font-weight: bolder;
+   
+
+}
+
+
+p{
+    
+    font-family: 'Amatic SC', cursive;
+    font-weight: bold;
+}
+
+
+/* now we will put color to brighten this alderly look */
+body{
+    background-color:#FFB6C1;
+}
+
+.a{  
+    background-image:url("BTS\ -\ Dynamite.jpg") ;
+    
+}
+.b{
+    background-image: url("BTS\ -\ FakeLove.jpg");
+}
+
+.c{
+    background-image: url("piano.jpg");
+    color: #fff;
+}
+.d{
+    background-image: url("guitar.jpg");
+    color: #fff;
+}
